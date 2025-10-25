@@ -1,1 +1,1 @@
-This repository contains a brief demo showing how a correlation between ISC and variance across stimuli can be driven by the SNR of the regions under consideration.
+This repository contains a brief demo (created for an [open review](https://snastase.github.io/reviews/2025-10-24-leipold.html)) showing how a correlation between ISC and variance across stimuli can be driven by differences in the SNR of the regions under consideration.
